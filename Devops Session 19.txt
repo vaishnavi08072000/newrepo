@@ -1,0 +1,18 @@
++++++++++++++++++++++++++++++++++++++++++++++
+DevOps Session 19
+https://www.edureka.co/blog/interview-questions/kubernetes-interview-questions/
+++++++++++++++++++++++++++++++++++++++++++++++
+Master node/control plane
+  - api  - it is responsible for taking request
+  - etcd - it is a database which containing information of            cluster 
+  -  controller - it is a desicion maker
+  - schedular - it is use to launch the pods
+
+--------------------------------------------------------
+Worker node
+    - kubelet - it is an agent which send status of node to master
+    - kuber-proxy - it is provide network
+
+
+------------------------------------------
+k8 - single node kubernetes
