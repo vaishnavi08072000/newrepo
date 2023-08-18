@@ -1,0 +1,32 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AWS session 1
+https://s7280.pcdn.co/wp-content/uploads/2017/09/saas-vs-paas-vs-iaas.png
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Virtualization-  It is a emulator that will show you the virtual data. It is an imaginary concept.
+
+Advantage- 
+1. Install multiple VM's on same physical host
+2. Backup and restore is also easy
+
+Disadvantage- 
+1. Admin dependent for everything
+2. No data security if you get admin access
+
+ex- VMware 
+--------------------------------------------------------------------------------------------------
+
+Cloud computing- It is a software somewhere install on remote location and we can access it via remote.
+
+Admin-
+
+Advantage - 
+1. Self service
+2. Account Security
+
+------------------------------------------------------------------------------
+Types of cloud
+
+1. IAAS (Infrastructure as a service)- You can control entire Infrastructure. Ex. AWS
+2. PAAS (Platform as a service)-  You can control only platform (OS) Ex. Openshift
+3. SAAS (Software as a service)- You can control only your software Ex. Playstore
